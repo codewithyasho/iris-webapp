@@ -9,7 +9,7 @@ It uses a **Support Vector Machine (SVM)** model trained on the famous **Iris da
 ## 🚀 Live Demo
 
 👉 [Click here to use the app](https://iris-webapp-5w9prsbyotcgfv52qg7ag3.streamlit.app/)  
-*(Replace this link after deployment)*
+
 
 ---
 
