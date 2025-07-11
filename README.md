@@ -30,11 +30,3 @@ It uses a **Support Vector Machine (SVM)** model trained on the famous **Iris da
 - Iris Dataset (from `sklearn.datasets`)
 
 ---
-
-## ⚙️ How to Run Locally
-
-```bash
-git clone https://github.com/your-username/iris-streamlit-app.git
-cd iris-streamlit-app
-pip install -r requirements.txt
-streamlit run app.py
